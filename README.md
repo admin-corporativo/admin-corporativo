@@ -1,3 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Fondo con esquinas redondeadas -->
+  <rect width="400" height="400" fill="#1E3A8A" rx="80"/>
+  
+  <!-- Letra N -->
+  <path d="M 100 280 L 100 120 L 140 120 L 220 240 L 220 120 L 260 120 L 260 280 L 220 280 L 140 160 L 140 280 Z" fill="#FFFFFF"/>
+  
+  <!-- Núcleo brillante (Círculo) -->
+  <circle cx="310" cy="120" r="20" fill="#3B82F6"/>
+  <circle cx="310" cy="120" r="10" fill="#FFFFFF"/>
+</svg>
+
+
 <div align="center">
   <h1>🏢 NucleoForge Technologies</h1>
   <p><strong>Enterprise Software Architecture • Cloud Infrastructure • Digital Transformation</strong></p>
